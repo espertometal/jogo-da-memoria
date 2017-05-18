@@ -16,3 +16,13 @@ E:\executaveis liberados\Jogo Memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.cs
 E:\executaveis liberados\Jogo Memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.Form1.resources
 E:\executaveis liberados\Jogo Memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.Properties.Resources.resources
 E:\executaveis liberados\Jogo Memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.csproj.GenerateResource.Cache
+E:\Download\jogo-da-memoria\jogoMemoria2\bin\Debug\jogoMemoria2.exe
+E:\Download\jogo-da-memoria\jogoMemoria2\bin\Debug\jogoMemoria2.pdb
+E:\Download\jogo-da-memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.csprojResolveAssemblyReference.cache
+E:\Download\jogo-da-memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.Form1.resources
+E:\Download\jogo-da-memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.Properties.Resources.resources
+E:\Download\jogo-da-memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.csproj.GenerateResource.Cache
+E:\Download\jogo-da-memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.exe
+E:\Download\jogo-da-memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.pdb
+E:\Executaveis liberados\jogo-da-memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.exe
+E:\Executaveis liberados\jogo-da-memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.pdb
