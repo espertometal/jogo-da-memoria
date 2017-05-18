@@ -1,0 +1,18 @@
+C:\Users\roger\Documents\Visual Studio 2010\Projects\jogoMemoria2\jogoMemoria2\bin\Debug\jogoMemoria2.exe
+C:\Users\roger\Documents\Visual Studio 2010\Projects\jogoMemoria2\jogoMemoria2\bin\Debug\jogoMemoria2.pdb
+C:\Users\roger\Documents\Visual Studio 2010\Projects\jogoMemoria2\jogoMemoria2\obj\x86\Debug\jogoMemoria2.Form1.resources
+C:\Users\roger\Documents\Visual Studio 2010\Projects\jogoMemoria2\jogoMemoria2\obj\x86\Debug\jogoMemoria2.Properties.Resources.resources
+C:\Users\roger\Documents\Visual Studio 2010\Projects\jogoMemoria2\jogoMemoria2\obj\x86\Debug\jogoMemoria2.csproj.GenerateResource.Cache
+C:\Users\roger\Documents\Visual Studio 2010\Projects\jogoMemoria2\jogoMemoria2\obj\x86\Debug\jogoMemoria2.exe
+C:\Users\roger\Documents\Visual Studio 2010\Projects\jogoMemoria2\jogoMemoria2\obj\x86\Debug\jogoMemoria2.pdb
+C:\Users\roger\Documents\Visual Studio 2010\Projects\jogoMemoria2\jogoMemoria2\obj\x86\Debug\jogoMemoria2.csprojResolveAssemblyReference.cache
+C:\Users\julio_000\Desktop\jogoMemoria2\jogoMemoria2\obj\x86\Debug\jogoMemoria2.exe
+C:\Users\julio_000\Desktop\jogoMemoria2\jogoMemoria2\obj\x86\Debug\jogoMemoria2.pdb
+E:\executaveis liberados\Jogo Memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.exe
+E:\executaveis liberados\Jogo Memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.pdb
+E:\executaveis liberados\Jogo Memoria\jogoMemoria2\bin\Debug\jogoMemoria2.exe
+E:\executaveis liberados\Jogo Memoria\jogoMemoria2\bin\Debug\jogoMemoria2.pdb
+E:\executaveis liberados\Jogo Memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.csprojResolveAssemblyReference.cache
+E:\executaveis liberados\Jogo Memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.Form1.resources
+E:\executaveis liberados\Jogo Memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.Properties.Resources.resources
+E:\executaveis liberados\Jogo Memoria\jogoMemoria2\obj\x86\Debug\jogoMemoria2.csproj.GenerateResource.Cache
